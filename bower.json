@@ -1,11 +1,11 @@
 {
-  "name": "html.sortable",
-  "version": "0.0.1",
+  "name": "dd-mouse-sortable",
+  "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/schne324/html5sortable.git"
+    "url": "https://github.com/schne324/mouse-sortable.git"
   },
-  "homepage": "https://github.com/schne324/html5sortable",
+  "homepage": "https://github.com/schne324/mouse-sortable",
   "authors": [
     "Alexandru Badiu <andu@ctrlz.ro>",
     "Lukas Oppermann <lukas@vea.re>"
