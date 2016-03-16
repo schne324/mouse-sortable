@@ -1,0 +1,31 @@
+{
+  "name": "html.sortable",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/schne324/html5sortable.git"
+  },
+  "homepage": "https://github.com/schne324/html5sortable",
+  "authors": [
+    "Alexandru Badiu <andu@ctrlz.ro>",
+    "Lukas Oppermann <lukas@vea.re>"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "description": "fork of html5sortable",
+  "main": "html.sortable.js",
+  "keywords": [
+    "jquery",
+    "sortable",
+    "html5",
+    "drag and drop"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "bower_components"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.3"
+  }
+}
